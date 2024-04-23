@@ -4,7 +4,7 @@
 
 In this project, we developed a Deep Learning model to automatically classify news articles into predefined categories such as sports, politics, business, and entertainment. We preprocessed the text data by tokenizing, removing stopwords, and encoding it using word embeddings. Our model, trained on a labeled dataset of news articles, achieved high accuracy in categorizing articles, providing a valuable tool for organizing and analyzing large volumes of news content.
 
-The dataset was obtained from ![here](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
+The dataset was obtained from [here](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
 
 ## Requirements
 
